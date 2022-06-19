@@ -7,4 +7,4 @@ Updating the local apt package:
 
 `sudo apt update`
 
-` $ sudo apt install python3-pip python3-dev`
+``` $ sudo apt install python3-pip python3-dev`
