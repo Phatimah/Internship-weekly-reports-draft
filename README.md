@@ -13,7 +13,7 @@
 1. I have read the first three sections of the first chapter of Ref. (1) thoroughly, and skimmed over the remaining two. [Here](https://www.example.com) are my notes.
 2. Solved couple of examples & exercises.
 3. Set up Jupyter Notebook with Python 3 on Ubuntu and created a Python Virtual Environment for Jupyter.
-4. Checked out some matplotlib tutorials and done some examples related to finite difference approximation thing. The codes can be found [here]([(https://github.com/Phatimah/Internship-weekly-reports-draft/blob/main/FDM.ipynb)]).
+4. Checked out some matplotlib tutorials and done some examples related to finite difference approximation thing. The codes can be found [here](https://github.com/Phatimah/Internship-weekly-reports-draft/blob/main/FDM.ipynb).
 5. Seeking a fundamental knwoledge of CFD, I have read the first two chapters of Ref. (2).
 6. 
 7.
