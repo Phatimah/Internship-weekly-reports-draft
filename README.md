@@ -2,12 +2,35 @@
 
 # Week 1
 
-Following these steps, I set up Jpyter Notebook on Ubuntu with Python 3 and Matpoltlib:
-Updating the local apt package: 
+## Week Roadmap
+1. Set up the computer.
+2. Finish Chapter 1.
+3. Get fundamental CFD knowledge. 
 
-`sudo apt update`
 
-and then having the pip as well as Python header files installed:  
-` $ sudo apt install python3-pip python3-dev `
+## Progress Updates
 
-Next, I have created a Python Virtual Environment for Jupyter:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
+## Things I Need Help with 
+- Setting the computer up.
+- Some simple questions.
+
+
+
+## References
+1.
+2.
+3.
+4.
+5.
