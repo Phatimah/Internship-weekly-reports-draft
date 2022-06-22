@@ -5,7 +5,7 @@
 
 ## Assigned tasks:
 1. Set up the computer.
-2. Complete Chapter 1.
+2. Complete Chapter 1 of Ref. (1).
 3. Get fundamental CFD knowledge. 
 
 
@@ -34,7 +34,7 @@
 ## Things I Need Help with 
 Nothing yet.
 
-* The main challenge I faced last week was choosing which reference to look at out of the huge amount of references I have found. *
+*The main challenge I faced last week was choosing which reference to look at out of the huge amount of references I have found.*
 
 ## References
 1.
