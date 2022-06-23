@@ -10,7 +10,7 @@
 
 
 ## Highlights of the week:
-- [A summary of what I have learned so far](https://www.example.com).
+- [A summary of what I have learned so far about FDM from Ch.1](https://www.example.com).
 - [My attempts to get more familiar with Python and matplotlib](https://github.com/Phatimah/Internship-weekly-reports-draft/blob/main/FDM.ipynb).
 - [Random informal notes for CFD](https://www.example.com).
 
@@ -19,7 +19,7 @@
 ## Progress updates:
 
 1. I have read the first three sections of the first chapter of Ref. (1) thoroughly and skimmed over the remaining two. 
-2. [Solved a couple of examples & exercises](https://github.com/Phatimah/Internship-weekly-reports-draft/tree/main/Examples)
+2. [Solved a couple of examples & exercises](https://github.com/Phatimah/Internship-weekly-reports-draft/tree/main/Examples).
 3. Successfully set up Jupyter Notebook with Python 3 on Ubuntu and created a Python Virtual Environment for Jupyter.
 4. Checked out some matplotlib tutorials and did some simple computations and plottings.
 5. I have read the first chapter of Ref. (2) and watched some Youtube videos in an effort to gain a basic understanding of CFD.
