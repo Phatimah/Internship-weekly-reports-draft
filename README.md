@@ -12,7 +12,7 @@
 ## Highlights of the week:
 - [A summary of what I have learned so far about FDM from Ch.1](https://www.example.com).
 - [My attempts to get more familiar with Python and matplotlib](https://github.com/Phatimah/Internship-weekly-reports-draft/blob/main/FDM.ipynb).
-- [Random informal notes for CFD](https://www.example.com).
+- [Random informal notes for CFD](https://github.com/Phatimah/Internship-weekly-reports-draft/blob/main/CFD%20lessons%20(Lorena%20A.%20Barba%20group).pdf).
 
 
 
