@@ -42,6 +42,19 @@ Nothing yet except for simple questions.
 3. Python Programming and Numerical Methods book.
 4. https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
 
+## Feedback
+
+
+1. You did well by covering the basic knowledge in chapter 1 and doing some exercises and coding. But in your report, you wrote "Higher order derivatives" and "A general approach to deriving the coefficients " two subsections titles without giving any details. 
+
+2. It's good what you wrote about CFD lessons, but please try to answer the questions that I raised in the plan for the research and timeline document:
+    1. What is Computational Fluid Dynamics?
+    2. Why use Computational Fluid Dynamics?
+    3. What are the advantages and disadvantages of Computational Fluid Dynamics?
+    4. How do I create a CFD model?
+    5. What is the difference between compressible and incompressible flow in fluid dynamics?
+    6. What are Reynolds and Mach numbers?
+
 
 # Week 2
 *June 30, 2022*
