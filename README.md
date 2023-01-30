@@ -152,7 +152,7 @@ SSDC.
 
 3. In addition, you coded the Runge-Kutta Method for second and fourth ODEs. Well done!
 
-# Week 4
+# Week 4 (Performing a convergence study and analysing ERK method)
 *July 21, 2022*
 
 ## Assigned tasks:
