@@ -1,6 +1,6 @@
-# Internship Weekly Reports Draft
+# Internship Weekly Reports Draft 
 
-# Week 1
+# Week 1 (Finite Difference Methods and Computational Fluid Dynamics)
 *June 23, 2022*
 
 ## Assigned tasks:
