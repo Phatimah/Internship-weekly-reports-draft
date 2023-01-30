@@ -221,14 +221,4 @@ The simulation.
 ## Things I Need Help with 
 *The main challenge I have faced this week is that I had to learn so many things at a time, as well as to do some search for another important task, whioch got me so distracted and confuced. I guess I need some more time process all what I have gained and to further arrange the report of this week and get it completed.*
 
-# Week 3
 
-# Week 4
-
-# Week 5
-
-# Week 6
-
-# Week 7
-
-# Week 8
