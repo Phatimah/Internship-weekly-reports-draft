@@ -105,7 +105,7 @@ Setting up the computer as well as starting with SSDC.
 
 3. Small note, you wrote in the report "Note that since the boundary conditions are functions of time, this means they will not be changing with time" is that true? 
 
-# Week 3
+# Week 3 (SSDC Solver, Accuracy and Stability)
 *July 7, 2022*
 
 ## Assigned tasks:
