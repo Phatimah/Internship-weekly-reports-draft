@@ -56,7 +56,7 @@ Nothing yet except for simple questions.
 
 By answering these questions, you will get the basic knowledge to help you start running SSDC code.
 
-# Week 2
+# Week 2 (IVPs for ODEs and Explicit Runge-Kutta)
 *June 30, 2022*
 
 ## Assigned tasks:
