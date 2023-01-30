@@ -135,7 +135,7 @@ Setting up the computer as well as starting with SSDC.
 1. Getting familiar with SSDC solver and studying the accuracy and stability of the method.
 
 ## Things I Need Help with 
-SSDC.
+The SSDC.
 
 
 ## References
