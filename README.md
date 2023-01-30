@@ -197,41 +197,6 @@ During these two weeks, I was primarily working on the [e-poster](https://github
 ## Highlights:
 - First place winner :).
 
-## Feedback
 
-
-# Week 7
-*Aug 11, 2022*
-
-## Assigned tasks:
-1. Understand the optimization process and the computation of the coefficients of the optimized methods.
-2. Reproduce some of the results.
-3. Desgin new optimized explicit RK methods by changing parameters.
-4. Evaluate the performance of the new EREK by simulating the NASA juncture flow expirment. 
-
-
-
-## Highlights of the week:
-- [A summary of what I have understood from the paper so far]().
-- [My attempts to reproduce some of the results]().
-- [A simple documentation of the steps I followed (very simplified)]().
-- [What I have learned about Git]().
-
- 
-
-## Progress updates:
-1. I read the paper all over again and [summarized it]().
-2. Tried to figure out the IBEX.
-3. Learned more about Git and watched some tutorials.
-4. Documented the steps I followed to obtain the reslts.
-5. [Reproduced some of the results]().
-6. [Pushed all what I have done on GitHub]().
-
-
-## In progress:
-The simulation.
-
-## Things I Need Help with 
-*The main challenge I have faced this week is that I had to learn so many things at a time, as well as to do some search for another important task, whioch got me so distracted and confuced. I guess I need some more time process all what I have gained and to further arrange the report of this week and get it completed.*
 
 
